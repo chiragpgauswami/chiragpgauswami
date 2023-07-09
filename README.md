@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/chiragpgauswami/chiragpgauswami/main/cover.png)](https://github.com/chiragpgauswami)
+[![MasterHead](https://raw.githubusercontent.com/chiragpgauswami/chiragpgauswami/main/cover.gif)](https://github.com/chiragpgauswami)
 
 <h1 align="center">Hi 👋, I'm Chirag P. Gauswami</h1>
 <h3 align="center">A passionate fullstck developer from India</h3>
