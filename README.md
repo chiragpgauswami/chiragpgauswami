@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiragpgauswami" target="blank"><img src="https://img.shields.io/twitter/follow/chiragpgauswami?logo=twitter&style=for-the-badge" alt="chiragpgauswami" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://chiragpgauswami.github.io/portfolio/](https://chiragpgauswami.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://chiragpgauswami.vercel.app/](https://chiragpgauswami.vercel.app/)
 
 - 💬 Ask me about **React, Vue, Express, Node, .NET, Laravel, Wordpress**
 
